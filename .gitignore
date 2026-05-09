@@ -1,0 +1,23 @@
+# Env
+.env
+.env.local
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
